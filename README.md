@@ -1,13 +1,13 @@
-<h1>Hi, I'm Soufian! <br/><a href="https://github.com/soufianbenafia">Software Engineer</a>, <a href="https://www.linkedin.com/in/soufianbenafia/">Cybersecurity Enthusiast</a></h1>
+<h1>Hi, I'm Soufian! <br/><a href="https://github.com/soufianbenafia">Software Engineer</a>, <a href="https://www.linkedin.com/in/soufian-benafia/">Cybersecurity Enthusiast</a></h1>
 
 <table cellspacing="1" cellpadding="2" valign="middle" style="border-collapse: collapse; border: none;">
   <tbody>
     <tr style="border: none;">
       <td style="border: none;">
 
-- **[GitHub](https://github.com/SelimHorri)**
-- **[GitHub Repositories](https://github.com/SelimHorri?tab=repositories)**
-- **[LinkedIn](https://www.linkedin.com/in/selim-horri-98b363158/)**
+- **[GitHub](https://github.com/soufianbenafia)**
+- **[GitHub Repositories](https://github.com/soufianbenafia?tab=repositories)**
+- **[LinkedIn](https://www.linkedin.com/in/soufian-benafia/)**
   </tbody>
 </table>
 
